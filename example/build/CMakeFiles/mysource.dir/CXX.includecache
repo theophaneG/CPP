@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/theophane/CPP/example/sources.cpp
+sources.h
+/home/theophane/CPP/example/sources.h
+
+/home/theophane/CPP/example/sources.h
+

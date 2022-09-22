@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libmysource.so -o libmysource.so CMakeFiles/mysource.dir/sources.cpp.o 

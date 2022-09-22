@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/theophane/CPP/example/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/theophane/CPP/example/main.cpp",
+  "file": "/home/theophane/CPP/example/main.cpp"
+},
+{
+  "directory": "/home/theophane/CPP/example/build",
+  "command": "/usr/bin/g++  -Dmysource_EXPORTS  -g -fPIC   -o CMakeFiles/mysource.dir/sources.cpp.o -c /home/theophane/CPP/example/sources.cpp",
+  "file": "/home/theophane/CPP/example/sources.cpp"
+}
+]
