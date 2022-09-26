@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/theophane/CPP/find_motive/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/theophane/CPP/find_motive/main.cpp",
+  "file": "/home/theophane/CPP/find_motive/main.cpp"
+},
+{
+  "directory": "/home/theophane/CPP/find_motive/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/find_motive.cpp.o -c /home/theophane/CPP/find_motive/find_motive.cpp",
+  "file": "/home/theophane/CPP/find_motive/find_motive.cpp"
+}
+]
