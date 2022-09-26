@@ -8,6 +8,7 @@ add_library(mysource SHARED sources.cpp)
 
 # add another
 #add_library(mysource_2 SHARED sources_2.cpp)
+make_directory(~/CPP/build)
 
 # add the executable
 add_executable(main main.cpp)

@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.0)
 # set the project name
-project(MyFirstProg)
+project(IsPrime)
 
 # add the lib
-add_library(mysource SHARED sources.cpp)
-
+#add_library(mysource SHARED sources.cpp)
+make_directory(build)
 # add another
 #add_library(mysource_2 SHARED sources_2.cpp)
 
@@ -12,6 +12,6 @@ add_library(mysource SHARED sources.cpp)
 add_executable(main main.cpp)
 
 # do not forget to link
-target_link_libraries(main mysource)
+#target_link_libraries(main)
 
 #target_link_libraries(main mysource_2)

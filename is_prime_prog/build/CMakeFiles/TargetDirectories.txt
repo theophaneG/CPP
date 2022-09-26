@@ -1,0 +1,3 @@
+/home/theophane/CPP/is_prime_prog/build/CMakeFiles/main.dir
+/home/theophane/CPP/is_prime_prog/build/CMakeFiles/edit_cache.dir
+/home/theophane/CPP/is_prime_prog/build/CMakeFiles/rebuild_cache.dir
