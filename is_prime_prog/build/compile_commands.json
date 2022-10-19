@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/theophane/CPP/is_prime_prog/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/theophane/CPP/is_prime_prog/main.cpp",
-  "file": "/home/theophane/CPP/is_prime_prog/main.cpp"
-}
-]
