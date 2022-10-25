@@ -3,5 +3,10 @@
   "directory": "/home/theophane/CPP/build",
   "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/theophane/CPP/cartesian_vector_param_2/main.cpp",
   "file": "/home/theophane/CPP/cartesian_vector_param_2/main.cpp"
+},
+{
+  "directory": "/home/theophane/CPP/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/vector.cpp.o -c /home/theophane/CPP/cartesian_vector_param_2/vector.cpp",
+  "file": "/home/theophane/CPP/cartesian_vector_param_2/vector.cpp"
 }
 ]
