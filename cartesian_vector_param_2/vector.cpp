@@ -53,6 +53,7 @@ value Vector::operator*(const Vector& rhs)const{
     return valuE;
 }
 
+//correction
 Vector& Vector::operator*=(const value& rhs){
     for (size_t i = 0; i < NDIM; i++)
     {
